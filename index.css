@@ -13,7 +13,6 @@ body {
   border-radius:3px;
   border-collapse: collapse;
   padding:5px;
-  width: 100%;
 }
 
 .table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
@@ -24,7 +23,7 @@ body {
 .table.nofill th {
   color:#27303e;
   border-bottom:2px solid #27303e;
-  font-size:23px;
+  font-size:46px;
   font-weight:400;
   vertical-align:middle;
 }	
@@ -48,7 +47,7 @@ font-weight:400;
 -webkit-transition: all 0.3s;
 -moz-transition: all 0.3s;
 transition: all 0.3s;
-font-size: 16px;
+font-size: 32px;
 background-color: white;
 }
 
